@@ -1,0 +1,33 @@
+══════════════════════════════════════
+        ☕  SMART CAFE BILLING SYSTEM
+══════════════════════════════════════
+  Date  : 01-May-2026
+  Time  : 06:22:40 PM
+──────────────────────────────────────
+  CUSTOMER DETAILS
+──────────────────────────────────────
+  Name    : Muhammad Sami Shahid
+  Contact : 03197078985
+──────────────────────────────────────
+  ORDER DETAILS
+──────────────────────────────────────
+  Item      : Burger
+  Unit Price: Rs. 250.00
+  Quantity  : 6
+──────────────────────────────────────
+  BILLING SUMMARY
+──────────────────────────────────────
+  Subtotal         : Rs. 1500.00
+  AI Discount (15%): Rs. 225.00
+    → Big Spender Reward (>Rs.1000)
+  After Discount   : Rs. 1275.00
+  Tax (5%)           : Rs. 63.75
+══════════════════════════════════════
+  TOTAL PAYABLE    : Rs. 1338.75
+══════════════════════════════════════
+  🤖 AI Suggestion:
+     You might also enjoy: Fries or Juice
+──────────────────────────────────────
+   Thank you for visiting Smart Cafe!
+        Visit again soon ☕
+══════════════════════════════════════
