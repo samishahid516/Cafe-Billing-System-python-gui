@@ -22,16 +22,22 @@ A modern, desktop-based graphical user interface (GUI) application for cafe bill
 
 ## 📸 Screenshots
 
-| Dashboard View | Receipt Generated |
-| :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Receipt](screenshots/receipt.png) |
+### 🖥️ Dashboard View
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c87db9f-0631-484f-98f8-366688bcb02b" alt="Application Dashboard" width="800">
+</p>
+
+### 📄 Receipt Generated
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8593afc-3685-464f-afe9-2584e952b256" alt="Receipt Generation" width="800">
+</p>
 
 ## 📦 Project Structure
 
 ```bash
 ├── Smart Billing System.py    # Main application source code
 ├── README.md                  # Project documentation
-├── screenshots/               # Folder containing application images
+├── screenshots/               # Folder containing application images (backup)
 └── receipts/                  # (Auto-generated) Folder for saved bill records
 ```
 
@@ -61,4 +67,4 @@ A modern, desktop-based graphical user interface (GUI) application for cafe bill
 -   **Association Suggestions:** If a user selects "Coffee", the system suggests "Cake Slice or Sandwich".
 
 ---
-*Developed as part of the Artificial Intelligence / Python Programming Lab (Lab 10).*
+*Developed for Python Lab 10 by **Sami***
